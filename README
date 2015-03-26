@@ -9,4 +9,10 @@ back street's back
 TONIGHT
 >>>>>>> foo_feature
 
+<<<<<<< HEAD
 This project is off the chain
+=======
+This project is off the heezy
+
+I am very, very cool.
+>>>>>>> foo_feature
